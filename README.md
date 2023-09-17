@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Todo App}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://todo-app-react-lyart.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://react.dev/learn">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
+    <a href="https://https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
       Challenge
     </a>
   </h3>
@@ -26,18 +26,19 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
-- [Contact](#contact)
+- [How To Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/Cecemaru/Todo-app-React/blob/1b107b62de5ad723c84c246a17c3c25cd315d9f7/public/screencapture-localhost-3000-2023-09-17-04_37_44.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -51,14 +52,14 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
+- [uuid](https://github.com/uuidjs/uuid)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://www.figma.com/file/SClDA1weEGA3Mo8Is8Sbf2/todo?node-id=1%3A5&mode=dev) was to build an application to complete the given user stories.
 
 ## How To Use
 
@@ -87,6 +88,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Cecemaru.io.com](https://cecemaru.github.io/)
+- GitHub [@Cecemaru](https://github.com/Cecemaru)
+- LinkedIn [@Ömer Düzgün](https://www.linkedin.com/in/%C3%B6mer-d%C3%BCzg%C3%BCn-a4b736210/)
